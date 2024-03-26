@@ -1,7 +1,7 @@
 {
-    "name": "nubled/sk",
+    "name": "NurAzliYT/Sk",
     "description": "For Yours",
-    "type": "metapackage",
+    "type": "library",
     "require": {
         "php": "^8.2",
         "phpunit/phpunit": "^11.0",

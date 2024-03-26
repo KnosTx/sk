@@ -3,7 +3,7 @@
 <dl>
   <dt>Authors</dt>
     <dd><a href="mailto:nubledstudio@gmail.com">Admin Nubled</a></dd>
-  <dt>Copyright</dt><dd>Copyright © 2015 Google, Inc.</dd>
+  <dt>Copyright</dt><dd>Copyright © 2024 Nubled Studio, Inc.</dd>
   <dt>License</dt><dd>Apache 2.0</dd>
 </dl>
 
@@ -25,5 +25,5 @@ curl -sS https://getcomposer.org/installer | php
 Next, run the Composer command to install the latest stable version:
 
 ```bash
-composer.phar require google/auth
+composer.phar require NurAzliYT/Sk
 ```

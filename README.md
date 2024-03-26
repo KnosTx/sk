@@ -3,8 +3,8 @@
 <dl>
   <dt>Authors</dt>
     <dd><a href="mailto:nubledstudio@gmail.com">Admin Nubled</a></dd>
-  <dt>Copyright</dt><dd>Copyright © 2024 Nubled Studio, Inc.</dd>
-  <dt>License</dt><dd>Apache 2.0</dd>
+  <dt>Copyright</dt><dd>Copyright © 2024 Nubled Studio</dd>
+  <dt>License</dt><dd>MIT Licence</dd>
 </dl>
 
 ## Description
